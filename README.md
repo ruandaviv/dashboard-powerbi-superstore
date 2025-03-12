@@ -13,9 +13,6 @@ Este projeto consiste em um **dashboard interativo** desenvolvido no Power BI pa
 - Visualização de vendas por estado e categoria
 - Evolução do faturamento ao longo do tempo
 
-## 📷 Imagens do Dashboard
-(Adicione aqui capturas de tela do Power BI)
-
 ## 📥 Como Usar
 1. Faça o download do arquivo `Dashboard de Vendas – Superstore`
 2. Abra no Power BI Desktop
